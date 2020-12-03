@@ -1,0 +1,6 @@
+{
+    "php.validate.executablePath": "",
+    "files.associations": {
+        "*.php": "php"
+    }
+}
